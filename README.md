@@ -1,10 +1,12 @@
-# RBT4TCSC 
-References
+### RBT4TCSC 
+RBT4TCSC is an R package. This package is built based on the following references.
 [1] Liu T., Ditzhaus, M. and Xu, J. A resampling-based test for two crossing survival curves. Pharm Stat. 2020;19:399–409.
 [2] Lin X., Xu Q. A new method for the comparison of survival distributions. Pharm Stat. 2010;9:67-76.
 
+### Installation
 First download the RBT4TCSC_0.1.0.tar and install the package through Package Archive File.
 
+### Exmple use
 library(RBT4TCSC)
 alpha=0.05
 samSize1=25
